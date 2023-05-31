@@ -1,2 +1,1 @@
-# Projects
-Karel 
+#Karel's visit to India 
